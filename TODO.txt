@@ -1,0 +1,3 @@
+instead of fakeAPI, upload date in supabase 
+(Dont forget to add country image in supabase)  [https://flagcdn.com/in.svg]
+Authentication in supabase

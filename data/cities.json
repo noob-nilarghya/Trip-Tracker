@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Taras",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2023-11-16T11:07:50.924Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "24.429280465303812",
+        "lng": "89.33658375785332"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Bangaon",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-16T14:28:25.986Z",
+      "notes": "My hometown 💖💖💖",
+      "position": {
+        "lat": "23.042334414973695",
+        "lng": "88.83043722809703"
+      },
+      "id": 98443201
+    }
+  ]
+}
